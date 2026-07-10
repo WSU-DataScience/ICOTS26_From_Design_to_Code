@@ -1,4 +1,4 @@
-# ICOTS 2026 From Design to Code - A Gentle Introduction to Data Science Programming [July 2026]
+# ICOTS 2026 Workshop #8:  From Design to Code - A Gentle Introduction to Data Science Programming [July 2026]
     Workshop Facilitators - Department of Mathematics & Statistics, Winona State University, Minnesota, USA
      - Chris Malone PhD; Email: cmalone at winona.edu
      - Todd Iverson PhD; Email: tiverson at winona.edu
