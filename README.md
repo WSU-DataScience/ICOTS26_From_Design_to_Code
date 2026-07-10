@@ -1,4 +1,32 @@
-# ICOTS26_From_Design_to_Code
+# ICOTS 2026 From Design to Code - A Gentle Introduction to Data Science Programming [July 2026]
+    Workshop Facilitators - Department of Mathematics & Statistics, Winona State University, Minnesota, USA
+     - Chris Malone PhD; Email: cmalone at winona.edu
+     - Todd Iverson PhD; Email: tiverson at winona.edu
+     - April Kerby-Helm PhD; Email: akerby at winona.edu
+
+<p align='center'><img width="328" height="322" alt="image" src="https://github.com/user-attachments/assets/4317065e-5ff6-4dd9-833c-e7fab05d859c" /></p>
+
+
+# Session #1: Introduction & Healthcare Example
+    - Agenda for Session #1
+        - Item #1
+        - Item #2
+        - Item #3
+
+# Session #2: FIFA 2026 World Cup Example
+    - Agenda for Session #2
+        - 
+        - Low code implementation  
+        
+# Session #3: Time Spent Case Study
+    - Item #1 
+    - Item #2
+    - Item #3
+
+# Workshop Evaluation Form
+- Link: https://forms.gle/8CUsKJUhsi45zirQ6
+
+
 
 
 
