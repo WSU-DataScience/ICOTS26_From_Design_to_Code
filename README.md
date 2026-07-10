@@ -24,6 +24,6 @@
     - Item #3
 
 # Workshop Evaluation Form
-- Please fill out our workshop evaluation form found heres: https://forms.gle/8CUsKJUhsi45zirQ6
+- Please fill out our workshop evaluation form found here: https://forms.gle/8CUsKJUhsi45zirQ6
 
 
