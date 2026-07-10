@@ -13,15 +13,17 @@
         - Item #2
         - Item #3
 
-# Session #2: FIFA 2026 World Cup Example
+# Session #2: FIFA 2026 World Cup Case Study
     - Agenda for Session #2
-        - 
-        - Low code implementation  
+        - More Code Design -> Programming
+        - More examples in Tableau Prep
+        - Introduction to WINDOW Functions
         
 # Session #3: Time Spent Case Study
-    - Item #1 
-    - Item #2
-    - Item #3
+    - Agenda for Session #2
+        - Item #1 
+        - Item #2
+        - Item #3
 
 # Workshop Evaluation Form
 - Please fill out our workshop evaluation form found here: https://forms.gle/8CUsKJUhsi45zirQ6
