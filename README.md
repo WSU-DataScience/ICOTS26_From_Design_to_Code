@@ -24,10 +24,6 @@
     - Item #3
 
 # Workshop Evaluation Form
-- Link: https://forms.gle/8CUsKJUhsi45zirQ6
+- Please fill out our workshop evaluation form found heres: https://forms.gle/8CUsKJUhsi45zirQ6
 
 
-
-
-
-Evaluation Form: https://forms.gle/n66WuwvzTHchcjvj9
