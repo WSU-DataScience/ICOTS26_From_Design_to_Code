@@ -4,9 +4,6 @@
      - Todd Iverson PhD; Email: tiverson at winona.edu
      - April Kerby-Helm PhD; Email: akerby at winona.edu
 
-<p align='center'>OLD QR CODE: UPDATE NEEDED<br><img width="328" height="322" alt="image" src="https://github.com/user-attachments/assets/4317065e-5ff6-4dd9-833c-e7fab05d859c" /></p>
-
-
 # Session #1: Introduction & Healthcare Example
     - Agenda for Session #1
         - Item #1
