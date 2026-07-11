@@ -4,6 +4,8 @@
      - Todd Iverson PhD; Email: tiverson at winona.edu
      - April Kerby-Helm PhD; Email: akerby at winona.edu
 
+<p align='center'><<img width="328" height="328" alt="qr code" src="https://github.com/user-attachments/assets/38fc82e8-1157-43fd-8f21-cb5b795f2854" /></p>
+
 # Session #1: Introduction & Healthcare Example
     - Agenda for Session #1
         - Item #1
