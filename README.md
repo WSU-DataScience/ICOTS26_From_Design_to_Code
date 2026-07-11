@@ -16,12 +16,12 @@
     - Moving from Code Design to the creation of a Data Pipeline in Tableau Prep
     - Introduction of more data verbs - ORDERBY and RANK
         
-# Session #3 Overview - Putting the Pieces Together
+# Session #3 - Putting the Pieces Together
     - Participants will work through the Healthcare Case Study on their own
     - Participants will create their own Code Design and create an appropriate data pipeline in Tableau Prep
     - Workshop facilitors will assist as needed
 
-# [Time Permitting] Session #4 Overview - CO2 Emissions Case Study
+# Session #4 - CO2 Emissions Case Study [Time Permitting]
     - Participants will be given an opporutnity to work through the creation of a more complicated data pipeline
     - Exploration of CO2 Emissions from a World Bank data source
  
