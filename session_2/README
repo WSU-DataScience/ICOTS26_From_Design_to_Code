@@ -1,11 +1,11 @@
-# Session #2: FIFA 2026 World Cup Case Study
-    - Agenda for Session #2
-        - More Code Design -> Programming
-        - More examples in Tableau Prep
-        - Introduction to WINDOW Functions
+# Session #2 - Code Design before Programming
+    - Introduction of the Code Design concept
+    - Moving from Code Design to the creation of a Data Pipeline in Tableau Prep
+    - Introduction of more data verbs - ORDERBY and RANK
 
 # Resources / Links
+    - **My Google Doc**: https://docs.google.com/document/d/1bzpmcT9eAmhtJj4x1GUufpmL1jCQPnAc_ShhZ8ee6JY/edit?usp=sharing
+    - **Get You Own Copy of My Google Doc**: https://docs.google.com/document/d/1bzpmcT9eAmhtJj4x1GUufpmL1jCQPnAc_ShhZ8ee6JY/copy?usp=sharing
+
     - Original Source: https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/statistics/team-statistics
-    - My Google Doc: https://docs.google.com/document/d/1bzpmcT9eAmhtJj4x1GUufpmL1jCQPnAc_ShhZ8ee6JY/edit?usp=sharing
-    - Get You Own Copy of My Google Doc: https://docs.google.com/document/d/1bzpmcT9eAmhtJj4x1GUufpmL1jCQPnAc_ShhZ8ee6JY/copy?usp=sharing
 
